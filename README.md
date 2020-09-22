@@ -1,4 +1,4 @@
 # Counter
-This is a simple webpage that has three buttons, one to increase the number by 1, a reset button to zero, and a decrease by 1 button.
+This is a super simple counter that can increase or decrease the number by 1 or reset the number to zero.
 
-Nothing special, just another small thing to test my knowledge.
+Nothing special, just wanted to do something small thing to test my knowledge :).
