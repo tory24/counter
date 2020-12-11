@@ -13,4 +13,3 @@ decrease.onclick = () => {
 increase.onclick = () => {
     document.getElementById('num').innerHTML++;
 }
-
